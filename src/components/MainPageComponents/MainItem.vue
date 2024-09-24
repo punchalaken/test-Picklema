@@ -27,7 +27,6 @@ defineProps<{
         </div>
         <h2 class="item__header">{{ title }}</h2>
         <p class="item__text">{{ content }}</p>
-        <button type="button" class="item__edit">Редактировать задачу</button>
     </div>
 </template>
 
